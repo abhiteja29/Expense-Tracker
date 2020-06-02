@@ -3,7 +3,7 @@
 
 The project proposed will develop web and mobile applications for corporations in the finance and business sectors. This application helps keep track of the user’s expenses and show trends on his expenses based on the selected date range. A list of documents detailing the Intel required for building the application is maintained. This project is undertaken by the company DollR.
 
-## Project Scope Management
+# Project Scope Management
 This includes all the work that is to be done to achieve the stated objectives. 
 
 ### Project justification
@@ -40,3 +40,16 @@ Research reports, design documents, software code, hardware, etc.
 4.	Documentation.
 5.	Extended support for the website.
 6.	UML diagrams and database schema.
+
+# Work Breakdown Structure
+
+Link to WBS: https://github.com/abhiteja29/Expense-Tracker/blob/master/WBS.md
+
+# Project Schedule Management
+
+Link to Gantt Chart: https://github.com/abhiteja29/Expense-Tracker/blob/master/GanttChart.md
+
+# Project Cost Management
+
+Link to cost estimate: https://github.com/abhiteja29/Expense-Tracker/blob/master/CostEstimation.md
+
