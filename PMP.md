@@ -6,6 +6,8 @@ The project proposed will develop web and mobile applications for corporations i
 # Project Scope Management
 This includes all the work that is to be done to achieve the stated objectives. 
 
+Project Charter Link: https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PROJECT_CHARTER.md
+
 ### Project justification
 The proposed project’s Business context (Expense Tracker) is to provide clients with hassle-free services. The proposed project provides services such as keeping track of user’s expenses and shows trends on his expenses based on the selected date range. The project must comprise of balances reasonable cost, effort, timely delivery, quality, and functionality.
 
