@@ -43,13 +43,21 @@ Research reports, design documents, software code, hardware, etc.
 
 # Work Breakdown Structure
 
+A work breakdown structure includes a grouping of the work involved in a project which defines the entire scope of the project. This is deliverable-oriented. It is a document that defines the basis for planning and managing project schedules, resources, costs, and changes.
+
+The main tool to create a WBS is decomposition. It involves subdividing the project deliverables into smaller units. The output of creating the WBS is the scope baseline and project document updates.
+
 Link to WBS: https://github.com/abhiteja29/Expense-Tracker/blob/master/WBS.md
 
 # Project Schedule Management
 
+In project schedule management, list of activities, deliverables, and milestones within a project are depicted. This also includes the planned start and finish dates. Also, the duration taken by each of these activities and recources assigned to them is given.
+
 Link to Gantt Chart: https://github.com/abhiteja29/Expense-Tracker/blob/master/GanttChart.md
 
 # Project Cost Management
+
+Project Cost Management helps in measuring the cost and productivity throughout the life-cycle of the project. It includes multiple functions such as field data collection, design, scheduling, and accounting.
 
 Link to cost estimate: https://github.com/abhiteja29/Expense-Tracker/blob/master/CostEstimation.md
 
