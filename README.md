@@ -16,6 +16,7 @@ https://github.com/abhiteja29/Expense-Tracker
 ### Client: Dr. Aziz Fellah
 
 ### Team Logo
+![](https://github.com/abhiteja29/Expense-Tracker/blob/master/Images/Logo.PNG?raw=true)
 
 ## Project Management Plan
 https://github.com/abhiteja29/Expense-Tracker/blob/master/PMP.md
@@ -27,9 +28,21 @@ https://github.com/abhiteja29/Expense-Tracker/blob/master/WBS.md
 https://github.com/abhiteja29/Expense-Tracker/blob/master/ProjectCharter.md
 
 ## Team Contributions
+Knowledge Area | Responsible Member |
+-----|------|
+Integration Management | 
+Scope Management |
+Time Management |
+Cost Management |
+Quality Management |
+Human Resource Management |
+Communication Management |
+Risk Management |
+Procurement Management |
+Stakeholder Management |
 
 ## Team Signatures
-Chinmayi Ambati
-Omkar Abhiteja Badda
-Sushmita Rudra
-Gangadhar Yerramsetti
+Chinmayi Ambati <br>
+Omkar Abhiteja Badda <br>
+Sushmita Rudra <br>
+Gangadhar Yerramsetti <br>
