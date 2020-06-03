@@ -26,3 +26,13 @@ Tools and techniques:
 - Flow Charts: For analyzing the sequence of events.
 - Ghantt Charts: To view the workflow.
 - Control Charts: For monitoring the performance.
+
+# Project Resource Management:
+
+Project Resource Management is about managing the resources of an organiization such as human skills, financial resources, inventory etc., effectively.
+
+Project orgnizational chart:
+
+![](https://github.com/abhiteja29/Expense-Tracker/blob/master/Flowchart.png)
+
+# Project Communication Management Plan:
