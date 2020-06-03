@@ -51,11 +51,11 @@ Communication is one of the most important factor in order to complete a project
 
 To report any development issues in the project, the below escalation matrix is used 
 	
-	 Gangadhar   Omkar Abhiteja  Chinmayi  Sushmita
+	 Gangadhar  -> Omkar Abhiteja -> Chinmayi -> Sushmita
 	
 To report any issues related to scope, deadlines, etc. The escalation matrix to be followed is:
 
-Team  Chinmayi  Stakeholders 
+Team -> Chinmayi -> Stakeholders 
 
 4.	Revision procedures for this document:
 
