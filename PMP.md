@@ -6,7 +6,7 @@ The project proposed will develop web and mobile applications for corporations i
 # Project Scope Management
 This includes all the work that is to be done to achieve the stated objectives. 
 
-Project Charter Link: https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PROJECT_CHARTER.md
+Project Charter Link: https://github.com/abhiteja29/Expense-Tracker/blob/master/ProjectCharter.md
 
 ### Project justification
 The proposed project’s Business context (Expense Tracker) is to provide clients with hassle-free services. The proposed project provides services such as keeping track of user’s expenses and shows trends on his expenses based on the selected date range. The project must comprise of balances reasonable cost, effort, timely delivery, quality, and functionality.
@@ -55,13 +55,13 @@ Link to WBS: https://github.com/abhiteja29/Expense-Tracker/blob/master/WBS.md
 
 In project schedule management, list of activities, deliverables, and milestones within a project are depicted. This also includes the planned start and finish dates. Also, the duration taken by each of these activities and recources assigned to them is given.
 
-Link to Gantt Chart: https://github.com/abhiteja29/Expense-Tracker/blob/master/GanttChart.md
+Link to Gantt Chart: https://github.com/abhiteja29/Expense-Tracker/blob/master/Images/GnattChart2.PNG
 
 # Project Cost Management
 
 Project Cost Management helps in measuring the cost and productivity throughout the life-cycle of the project. It includes multiple functions such as field data collection, design, scheduling, and accounting.
 
-Link to cost estimate: https://github.com/abhiteja29/Expense-Tracker/blob/master/CostEstimation.md
+Link to cost estimate: https://github.com/abhiteja29/Expense-Tracker/blob/master/ProjectCostManagement.md
 
 <h1> Project Quality Management Plan:</h1>
 
@@ -98,7 +98,7 @@ Project Resource Management is about managing the resources of an organiization 
 
 Project orgnizational chart:
 
-![](https://github.com/abhiteja29/Expense-Tracker/blob/master/Flowchart.png)
+![](https://github.com/abhiteja29/Expense-Tracker/blob/master/Images/Flowchart.png)
 
 # Project Communication Management Plan:
 Communication is one of the most important factor in order to complete a project. There are several steps to obtain this as mentioned below:
@@ -129,8 +129,6 @@ In case there are any changes to this document, the steps mentioned should be fo
 2.	Chinmayi reviews the document and sends it to the stakeholders for signoff.
 3.	After receiving all the signoff’s, they are documented and stored for a future reference.
 4.	The updated document is published to all the stakeholders over an email communication by Chinmayi.
-
-
 5.	Communications summary:
 
 Stakeholders|Communications Delivery Method/Format|Producer|Contact Person|Due Date|
@@ -165,7 +163,7 @@ Technical Risk | Review about each and every deliverable with project and progra
 People Risk | Recruiting the individuals/employees from various regions | Project Lead |
 Structure/ process risk| Define the requirements and project objectives properly | Project Lead |
 
-Link to risk register: https://github.com/abhiteja29/Expense-Tracker/blob/master/RiskRegisterforExpenseTracker.xlsx
+Link to risk register: https://github.com/abhiteja29/Expense-Tracker/blob/master/ProjectRiskManagement.xlsx
 
 
 # Procurement Management Plan
