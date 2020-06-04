@@ -30,16 +30,16 @@ https://github.com/abhiteja29/Expense-Tracker/blob/master/ProjectCharter.md
 ## Team Contributions
 Knowledge Area | Responsible Member |
 -----|------|
-Integration Management | 
-Scope Management |
-Time Management |
-Cost Management |
-Quality Management |
-Human Resource Management |
-Communication Management |
-Risk Management |
-Procurement Management |
-Stakeholder Management |
+Integration Management | Chinamyi Ambati
+Scope Management | Omkar Abhiteja Badda
+Time Management | Sushmita Rudra
+Cost Management |Gangadhar Yerramshetti
+Quality Management | Sushmita Rudra
+Human Resource Management | Chinamyi Ambati
+Communication Management | Omkar Abhiteja Badda
+Risk Management | Gangadhar Yerramshetti
+Procurement Management | Gangadhar Yerramshetti
+Stakeholder Management | Chinmayi Ambati
 
 ## Team Signatures
 Chinmayi Ambati <br>
